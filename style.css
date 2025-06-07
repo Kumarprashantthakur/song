@@ -97,6 +97,7 @@ nav .circle{
 @media screen and (max-width: 380px) {
  .music-player{
     width: 295px;
+    height: 570px;
     margin-top: 50px ;
     margin-bottom: 50px;
  }
